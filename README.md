@@ -13,4 +13,4 @@ Our system is in another castle!
 
 # Enumeration
 
-[[Gobuster]] // [[nmap]]
+[Gobuster](gobuster.md) // [nmap](nmap.md)
