@@ -11,3 +11,6 @@ Our system is in another castle!
 
 ---
 
+# Enumeration
+
+[[Gobuster]] // [[nmap]]
