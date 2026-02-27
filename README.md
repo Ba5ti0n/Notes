@@ -6,7 +6,7 @@
 | | /^\ | |
 |_|_|I|_|_|
 
-Our princess is in another castle!
+Our system is in another castle!
 ```
 
 ---
