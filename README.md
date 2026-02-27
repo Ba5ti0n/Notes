@@ -13,4 +13,4 @@ Our system is in another castle!
 
 # Enumeration
 
-[Gobuster](gobuster.md) // [nmap](nmap.md) // [Linux](Linux.md)
+[Gobuster](files/gobuster.md) // [nmap](files/nmap.md) // [Linux](files/Linux.md)
